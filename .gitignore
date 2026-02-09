@@ -1,0 +1,5 @@
+# logs
+*.log
+
+# macOS
+.DS_Store
